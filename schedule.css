@@ -1,0 +1,25 @@
+/* 
+* Tatiana Mendez
+* March 20, 2019
+* CSS Page for Schedule of My 2nd Semester Classes 
+*/
+
+
+* {
+
+}
+
+
+body {
+
+}
+
+table, td, th { border: 1px solid salmon; } /*type selector for the table, td, and th and their border*/
+
+table { border-collapse: collapse; } /*type selector for the border of the table*/
+
+thead { background-color: blanchedalmond; } /*type selector for the thead*/
+
+tbody { background-color: lavenderblush} /*type selector for the tbody*/
+
+tfoot { background-color: lightseagreen; } /*type selector for the tfoot*/
